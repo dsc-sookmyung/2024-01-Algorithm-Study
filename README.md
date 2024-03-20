@@ -12,7 +12,7 @@
 > ⭐️ C++로만 푸실 필요는 없습니다. Python이나 Java 등의 다른 언어들을 사용하셔도 됩니다.
 ### Github
 1. 2024-01-Algorithm-Study 레포지터리를 clone 후 본인의 github username으로 branch 생성
-2. 주차별 폴더(ex. `01-240319`)에 개인 백준 아이디(ex. `2093ab`)으로 폴더를 생성
+2. 주차별 폴더(ex. `01-240319`)에 개인 GitHub 아이디(ex. `2093ab`)으로 폴더를 생성
 3. 개인 폴더 안에 코드를 작성하되, 파일 명은 알파벳 번호로 생성(ex. `A.cpp`)<br />
 ```01-240319/2093ab/A.cpp```
 4. 마지막으로 main branch에 Pull Request 해주시면 됩니다. PR 명은 `[이름]23-24 GDSC algorithm study_1주차` 형식
